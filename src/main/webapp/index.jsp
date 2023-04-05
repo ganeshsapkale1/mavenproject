@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Hi Ganesh this is my first project on jenkins with poll scm</h1>
-<h2>Hello World!</h2>
+<h1>Hi, BirthDay Party is Pending </h1>
+<h2>Brownie Brownie Brownie</h2>
 </body>
 </html>
